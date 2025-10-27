@@ -90,5 +90,5 @@ Your support motivates me to keep building and sharing more projects.
 
 ---
 
-**Author:** [Himanshu Thakar]([https://github.com/your-github-username](https://github.com/himanshu21thakar))  
+**Author:** [Abhishek Tadaskar]
 _Deep Learning Enthusiast
