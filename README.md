@@ -91,4 +91,5 @@ Your support motivates me to keep building and sharing more projects.
 ---
 
 **Author:** [Abhishek Tadaskar]
+
 _Deep Learning Enthusiast
